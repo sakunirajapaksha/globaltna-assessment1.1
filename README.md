@@ -158,10 +158,6 @@ The backend provides RESTful API endpoints. Key features:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the ISC License.
-
 ## 👤 Author
 
 [sakunirajapaksha](https://github.com/sakunirajapaksha)
