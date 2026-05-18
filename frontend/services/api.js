@@ -1,7 +1,9 @@
 import axios from "axios";
 
+
 const API = axios.create({
-baseURL: "http://localhost:5000/api/jobs",
+  baseURL:
+    process.env.NEXT_PUBLIC_API_URL,
 });
 
 // Attach JWT token automatically
