@@ -2,7 +2,7 @@
 
 A full-stack web application built with a modern JavaScript tech stack featuring a Next.js frontend and Node.js/Express backend.
 
-**Live Demo:** [https://globaltna-assessment1-1.vercel.app](https://globaltna-assessment1-1.vercel.app)
+**Live Demo:** [https://globaltna-assessment1-1.vercel.app/login](https://globaltna-assessment1-1.vercel.app/login)
 
 ## 📋 Project Structure
 
@@ -169,7 +169,7 @@ This project is licensed under the ISC License.
 ## 🔗 Links
 
 - **Repository:** [https://github.com/sakunirajapaksha/globaltna-assessment1.1](https://github.com/sakunirajapaksha/globaltna-assessment1.1)
-- **Live Demo:** [https://globaltna-assessment1-1.vercel.app](https://globaltna-assessment1-1.vercel.app)
+- **Live Demo:** [https://globaltna-assessment1-1.vercel.app/login](https://globaltna-assessment1-1.vercel.app/login)
 
 ---
 
